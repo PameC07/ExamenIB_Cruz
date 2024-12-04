@@ -1,0 +1,18 @@
+[
+  {
+    "nombre": "Ecuador",
+    "codigoISO": "EC",
+    "continente": "America del Sur",
+    "poblacion": 1243542,
+    "esMiembroONU": true,
+    "ciudades": [
+      {
+        "nombre": "Quito",
+        "poblacion": 124242,
+        "altitud": 1234.65,
+        "fechaFundacion": "1534-12-06",
+        "esCapital": true
+      }
+    ]
+  }
+]
